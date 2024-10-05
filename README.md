@@ -7,3 +7,6 @@ Passou informações sobre SLA e tempo de disponibilidade de serviços, também 
 
 LAB Configurando uma instância de Banco de Dados na Azure
 Informou e mostrou como criar máquinas virtuais e BD mostrando tbm previsões de custo baseados na configuração necessária.
+
+LAB Construindo Arquiteturas no Azure
+Fizemos um tour Virtual pela infra Azure e um tour pelas zonas de disponibilidade, mostrando oum pouco sobre a infra geral. Também criamos um grupo de recursos, e atribuimos uma VNET a ele para exemplicar e mostrar o funcionamento de um recurso do 0.
