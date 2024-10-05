@@ -10,3 +10,6 @@ Informou e mostrou como criar máquinas virtuais e BD mostrando tbm previsões d
 
 LAB Construindo Arquiteturas no Azure
 Fizemos um tour Virtual pela infra Azure e um tour pelas zonas de disponibilidade, mostrando oum pouco sobre a infra geral. Também criamos um grupo de recursos, e atribuimos uma VNET a ele para exemplicar e mostrar o funcionamento de um recurso do 0.
+
+Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+Lab para criar uma máquina virtual, e todos os tipos e máquina, também foi passado como configurar as funções de aplicação.
