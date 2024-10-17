@@ -13,3 +13,6 @@ Fizemos um tour Virtual pela infra Azure e um tour pelas zonas de disponibilidad
 
 Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 Lab para criar uma máquina virtual, e todos os tipos e máquina, também foi passado como configurar as funções de aplicação.
+
+Dominando o Armazenamento na Azure
+Lab para mostrar as contas de armazenamento e o que contém, e também mostra como funcionam os programa do AZCopy e o storage Explorer, e também opões de migração para nuvem, um dos exemploss é o DataBox
