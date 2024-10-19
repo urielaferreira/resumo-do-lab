@@ -22,3 +22,6 @@ Lab para mostrar tudo sobre autenticação e segurança mostrando o funcionament
 
 Otimizando Custos no Azure
 Lab para mostrar o uso da calculadora TCO e a calculadora de pricing da azure, e como utilizar o cost management para administrar custos e recursos.
+
+Gerenciando Politicas em Acessos Azure
+Lab para mostrar o microsoft purview, microsoft policy, e mostrar sobre bloqueio de recursos, e governança em geral.
