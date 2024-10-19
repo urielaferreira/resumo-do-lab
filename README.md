@@ -16,3 +16,6 @@ Lab para criar uma máquina virtual, e todos os tipos e máquina, também foi pa
 
 Dominando o Armazenamento na Azure
 Lab para mostrar as contas de armazenamento e o que contém, e também mostra como funcionam os programa do AZCopy e o storage Explorer, e também opões de migração para nuvem, um dos exemploss é o DataBox
+
+Entendendo sobre Segurança e Identidade na Azure
+Lab para mostrar tudo sobre autenticação e segurança mostrando o funcionamento das ferramentas Entra ID, Entra Connect, e também a parte de segurança da Azure.
