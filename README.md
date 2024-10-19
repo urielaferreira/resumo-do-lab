@@ -19,3 +19,6 @@ Lab para mostrar as contas de armazenamento e o que contém, e também mostra co
 
 Entendendo sobre Segurança e Identidade na Azure
 Lab para mostrar tudo sobre autenticação e segurança mostrando o funcionamento das ferramentas Entra ID, Entra Connect, e também a parte de segurança da Azure.
+
+Otimizando Custos no Azure
+Lab para mostrar o uso da calculadora TCO e a calculadora de pricing da azure, e como utilizar o cost management para administrar custos e recursos.
