@@ -28,3 +28,6 @@ Lab para mostrar o microsoft purview, microsoft policy, e mostrar sobre bloqueio
 
 Ferramentas de Implantação na Azure
 Lab para mostrar o uso do CLI/PS da azure, como funciona o ARM, o BICEP e as opções de integrações internas com o ARC.
+
+Monitoramento Inteligente com o Azure
+Lab para mostrar o funcionamento de Azure Monitor, Service Health e Advisor. 
