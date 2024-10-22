@@ -25,3 +25,6 @@ Lab para mostrar o uso da calculadora TCO e a calculadora de pricing da azure, e
 
 Gerenciando Politicas em Acessos Azure
 Lab para mostrar o microsoft purview, microsoft policy, e mostrar sobre bloqueio de recursos, e governança em geral.
+
+Ferramentas de Implantação na Azure
+Lab para mostrar o uso do CLI/PS da azure, como funciona o ARM, o BICEP e as opções de integrações internas com o ARC.
